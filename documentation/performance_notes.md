@@ -11,3 +11,10 @@ This repository documents the foundational software architecture necessary to ha
 3. **User Interaction (UI) Scaling:** Creating adaptive layouts specifically optimized for contextual overlay HUDs, maximizing legibility with low density.
 
 *This analysis is an architectural evaluation.*
+
+# Low-Level Memory & Resource Profiling
+Garbage Collection Optimization: Eliminates dynamic object allocations during active frame streaming by pre-allocating state buffers at runtime initialization.
+
+Heap Management: Enforces a maximum memory ceiling of 24 MB for background daemon services running on the host OS.
+
+Battery Consumption Targets: Optimized to consume less than 3% host battery degradation per hour of continuous active HUD synchronization.
