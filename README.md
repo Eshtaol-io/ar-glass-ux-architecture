@@ -34,7 +34,14 @@ BLE 5.3 / WebSockets (Binary Protocol)
 +-----------------------------------------------------------------------------------+
 
 
-<img width="552" height="362" alt="images" src="https://github.com/user-attachments/assets/86670c78-39a0-48dc-85f3-10f19f495676" />
+
+
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_8nrkt48nrkt48nrk" src="https://github.com/user-attachments/assets/0064236c-e460-4a7c-811f-ef56264d6458" />
+
+
+
+
 
 
 
