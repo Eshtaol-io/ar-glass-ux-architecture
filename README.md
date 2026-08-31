@@ -32,7 +32,11 @@ BLE 5.3 / WebSockets (Binary Protocol)
 |  | (< 16ms Execution)    |     | (Contrast-Adaptive)    |     | Projection     |  |
 |  +-----------------------+     +------------------------+     +----------------+  |
 +-----------------------------------------------------------------------------------+
+
+
 <img width="552" height="362" alt="images" src="https://github.com/user-attachments/assets/86670c78-39a0-48dc-85f3-10f19f495676" />
+
+
 
 
 ---
