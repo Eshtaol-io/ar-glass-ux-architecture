@@ -1,11 +1,11 @@
 # Edge HUD Architecture & Contextual Runtime Engine
 
 An advanced, asynchronous systems case study and technical integration suite designed for low-power, head-worn augmented reality displays and smart glasses (e.g., Meta Glass / AR HUD Platforms). This repository provides a formal software specification and architectural blueprint addressing high-throughput state synchronization, strict thermal budget adherence, contextual payload serialization, and edge-side UI execution.
-## 📺 Interface & HUD Simulation Demo
+## 📺 Hardware Capability & Form Factor Showcase
 
-![AR Glass HUD Simulation](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
+[![Ray-Ban Meta Collection Showcase](https://img.youtube.com/vi/E1LW_MteTho/maxresdefault.jpg)](https://www.youtube.com/watch?v=E1LW_MteTho)
 
-*Figure 1: High-throughput contextual frame rendering simulated on micro-display optics.*
+*Figure 1: Official hardware demonstration and feature execution analysis for Meta Smart Glasses.*
 
 ---
 
