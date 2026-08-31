@@ -3,7 +3,10 @@
 An advanced, asynchronous systems case study and technical integration suite designed for low-power, head-worn augmented reality displays and smart glasses (e.g., Meta Glass / AR HUD Platforms). This repository provides a formal software specification and architectural blueprint addressing high-throughput state synchronization, strict thermal budget adherence, contextual payload serialization, and edge-side UI execution.
 ## 📺 Hardware Capability & Form Factor Showcase
 
-[![Ray-Ban Meta Collection Showcase](https://img.youtube.com/vi/E1LW_MteTho/maxresdefault.jpg)](https://www.youtube.com/watch?v=E1LW_MteTho)
+
+
+https://github.com/user-attachments/assets/cb9729c8-e5ff-466e-bab4-1b6c0f563caa
+
 
 *Figure 1: Official hardware demonstration and feature execution analysis for Meta Smart Glasses.*
 
@@ -29,6 +32,8 @@ BLE 5.3 / WebSockets (Binary Protocol)
 |  | (< 16ms Execution)    |     | (Contrast-Adaptive)    |     | Projection     |  |
 |  +-----------------------+     +------------------------+     +----------------+  |
 +-----------------------------------------------------------------------------------+
+<img width="552" height="362" alt="images" src="https://github.com/user-attachments/assets/86670c78-39a0-48dc-85f3-10f19f495676" />
+
 
 ---
 
